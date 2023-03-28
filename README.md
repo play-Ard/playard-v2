@@ -1,6 +1,6 @@
-# Playard Device Support
+# Playard Development Requirements
 
-## Requirements
+## Titles
 
 - Playard 2D Game Engine 
     - Player Controller
@@ -20,4 +20,7 @@
 - BLE Games
     - Haxball
 
-- nRF52
+- Advanced
+    - SD Card Bootloader
+    - nRF52 
+    - Playard NES Emulator
