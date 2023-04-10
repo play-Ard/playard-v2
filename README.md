@@ -24,3 +24,4 @@
     - SD Card Bootloader
     - nRF52 
     - Playard NES Emulator
+    - Custom Sensor Port
